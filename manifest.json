@@ -1,0 +1,14 @@
+{
+  "name": "কোচিং ম্যানেজার — আদর্শ একাডেমী",
+  "short_name": "কোচিং ম্যানেজার",
+  "description": "শিক্ষার্থী, শিক্ষক, উপস্থিতি, বেতন ও ক্লাসের লাইভ আপডেট — সব হিসেব এক জায়গায়।",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5fa",
+  "theme_color": "#2f5fe0",
+  "lang": "bn",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
